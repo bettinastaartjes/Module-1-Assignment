@@ -45,6 +45,7 @@ You are required to submit the following for review:
 
 ## MY THOUGHT PROCESS FOR COMPLETING THE ASSIGNMENT
 - First I added comments in the Index.html to better understand the sections of the document and to keep it organized
+- Changed title of the website to represent the website company
 - I then added "alt" text/tags wherever I thought was necessary to increase accessibility and SEO
 - Looking at the CSS sheet, I first ajudsted the order of the CSS to match that of the HTML to make a bit easier to understand, then I added additional tags to keep organized and for better reading
 - In the CSS sheet, I also grouped elements that made sense to be grouped together since they had the same style, font, padding, color, etc.  
