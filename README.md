@@ -49,6 +49,6 @@ You are required to submit the following for review:
 - Looking at the CSS sheet, I first ajudsted the order of the CSS to match that of the HTML to make a bit easier to understand, then I added additional tags to keep organized and for better reading
 - In the CSS sheet, I also grouped elements that made sense to be grouped together since they had the same style, font, padding, color, etc.  
 - Add/Commit/Push to Git
-
+- DEPLOYED LINK: https://bettinastaartjes.github.io/Module-1-Assignment/
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
